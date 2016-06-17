@@ -1,0 +1,14 @@
+layout_spectrum: 0.9265233
+color:
+  saturation: 0.4227498
+  lightness: 0.5748492
+  brandStrength: 0.9329214
+  brandColors:
+    - '#FFFFFF'
+    - '#C47789'
+    - '#6B666C'
+    - '#311E31'
+    - '#9599A5'
+  rhythmicContrast: 0.2299571
+typography_spectrum: 0.8709677
+name: bryanhuffman
